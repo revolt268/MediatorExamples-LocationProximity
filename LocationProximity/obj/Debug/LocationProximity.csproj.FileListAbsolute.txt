@@ -1,0 +1,9 @@
+C:\Training\c#\LocationProximity\LocationProximity\bin\Debug\LocationProximity.exe.config
+C:\Training\c#\LocationProximity\LocationProximity\bin\Debug\LocationProximity.exe
+C:\Training\c#\LocationProximity\LocationProximity\bin\Debug\LocationProximity.pdb
+C:\Training\c#\LocationProximity\LocationProximity\obj\Debug\LocationProximity.csprojAssemblyReference.cache
+C:\Training\c#\LocationProximity\LocationProximity\obj\Debug\LocationProximity.Properties.Resources.resources
+C:\Training\c#\LocationProximity\LocationProximity\obj\Debug\LocationProximity.csproj.GenerateResource.cache
+C:\Training\c#\LocationProximity\LocationProximity\obj\Debug\LocationProximity.csproj.CoreCompileInputs.cache
+C:\Training\c#\LocationProximity\LocationProximity\obj\Debug\LocationProximity.exe
+C:\Training\c#\LocationProximity\LocationProximity\obj\Debug\LocationProximity.pdb
